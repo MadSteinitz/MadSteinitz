@@ -3,7 +3,7 @@
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=MadSteinitz&theme=dark&show_icons=true&locale=en" alt="MadSteinitz">
 
-- 🌱 I’m currently learning **Kernel and Cryptography**
+- 🌱 I’m currently learning **Kernel and Crypto**
 
 - 📝 I regularly write articles on **[My GitHub Pages](https://madsteinitz.github.io/blog/)**
 
@@ -11,7 +11,7 @@
 
 - 🔑 My GPG public key is: **[`12EA 75A9 E784 0C9D`](https://keys.openpgp.org/vks/v1/by-fingerprint/EF1DADA013BDEFC531B9D10D12EA75A9E7840C9D)**
 
-- ⚡ The winter is comming, so, **take care of yourself.**
+- ⚡ Winter is comming, so **take care of yourself.**
 
 ## 
 
