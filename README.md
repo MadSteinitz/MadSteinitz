@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Maxwell Steinitz</h1>
-<h2 align="center">A Passionate Linux Kernel Developer</h2>
+<h2 align="center">A Passionate FPGA and Deep Learning Developer</h2>
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=MadSteinitz&theme=dark&show_icons=true&locale=en" alt="MadSteinitz">
 
-- 🌱 I’m currently learning **Kernel and Crypto**
+- 🌱 I’m currently learning **Risc-V and Deep Learning**
 
 - 📝 I regularly write articles on **[My GitHub Pages](https://madsteinitz.github.io/blog/)**
 
@@ -16,7 +16,7 @@
 ## 
 
 
-![C](https://img.shields.io/badge/c-00599c.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-00599c.svg?style=for-the-badge&logo=cplusplus&logoColor=white) ![Rust](https://img.shields.io/badge/rust-171717.svg?style=for-the-badge&logo=rust&logoColor=white) ![Python](https://img.shields.io/badge/python-2b5b84.svg?style=for-the-badge&logo=python&logoColor=white) ![Java](https://img.shields.io/badge/java-1e8cbe.svg?style=for-the-badge&logo=coffeescript&logoColor=white) ![Go](https://img.shields.io/badge/go-00add8.svg?style=for-the-badge&logo=go&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-30b980.svg?style=for-the-badge&logo=linux&logoColor=white) ![x86-64](https://img.shields.io/badge/x86--64-0071c5.svg?style=for-the-badge&logo=intel&logoColor=white) ![Risc-V](https://img.shields.io/badge/Risc--V-283272.svg?style=for-the-badge&logo=riscv&logoColor=white) ![Crypto](https://img.shields.io/badge/crypto-0098ea.svg?style=for-the-badge&logo=letsencrypt&logoColor=white)
+![C++](https://img.shields.io/badge/c++-00599c.svg?style=for-the-badge&logo=cplusplus&logoColor=white) ![Python](https://img.shields.io/badge/python-2b5b84.svg?style=for-the-badge&logo=python&logoColor=white) ![Java](https://img.shields.io/badge/java-1e8cbe.svg?style=for-the-badge&logo=coffeescript&logoColor=white) ![FPGA](https://img.shields.io/badge/FPGA-0099b0.svg?style=for-the-badge&logo=open-source-hardware&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-30b980.svg?style=for-the-badge&logo=linux&logoColor=white) ![x86-64](https://img.shields.io/badge/x86--64-0071c5.svg?style=for-the-badge&logo=intel&logoColor=white) ![Risc-V](https://img.shields.io/badge/Risc--V-283272.svg?style=for-the-badge&logo=riscv&logoColor=white) ![DeepLearning](https://img.shields.io/badge/DeepLearning-005CED.svg?style=for-the-badge&logo=onnx&logoColor=white)
 
 ![Contributions](https://github.com/MadSteinitz/MadSteinitz/raw/output/github-contribution-grid-snake-dark.svg)
 
