@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Risc-V and Deep Learning**
 
-- 📝 I regularly write articles on **[My GitHub Pages](https://madsteinitz.github.io/blog/)**
+- 📝 I regularly write articles on **[My GitHub Pages](https://madsteinitz.me)**
 
 - 📫 How to reach me: **[madsteinitz@gmail.com](mailto:madsteinitz@gmail.com)**
 
