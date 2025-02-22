@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Maxwell Steinitz</h1>
-<h2 align="center">A Passionate FPGA and Deep Learning Developer</h2>
+<h2 align="center">An Embedded and Machine Learning Developer</h2>
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=MadSteinitz&theme=light&show_icons=true&locale=en" alt="MadSteinitz">
 
-- 🌱 I’m currently learning **Risc-V and Deep Learning**
+- 🌱 I’m currently learning **TPU and Machine Learning**
 
 - 📝 I regularly write articles on **[My GitHub Pages](https://madsteinitz.me)**
 
